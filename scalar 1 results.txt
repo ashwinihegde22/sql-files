@@ -1,0 +1,290 @@
+﻿1	Chief Executive Officer	99	99
+2	Vice President of Engineering	1	99
+3	Engineering Manager	2	99
+4	Senior Tool Designer	48	99
+5	Design Engineer	5	99
+6	Design Engineer	6	99
+7	Research and Development Manager	61	99
+8	Research and Development Engineer	62	99
+9	Research and Development Engineer	63	99
+10	Research and Development Manager	16	99
+11	Senior Tool Designer	7	99
+12	Tool Designer	9	99
+13	Tool Designer	8	99
+14	Senior Design Engineer	3	99
+15	Design Engineer	4	99
+16	Marketing Manager	40	99
+17	Marketing Assistant	42	99
+18	Marketing Specialist	48	99
+19	Marketing Assistant	43	99
+20	Marketing Assistant	41	99
+21	Marketing Specialist	44	99
+22	Marketing Specialist	45	99
+23	Marketing Specialist	46	99
+24	Marketing Specialist	47	99
+25	Vice President of Production	64	99
+26	Production Control Manager	43	99
+27	Production Supervisor - WC60	80	99
+28	Production Technician - WC60	21	99
+29	Production Technician - WC60	19	99
+30	Production Technician - WC60	14	99
+31	Production Technician - WC60	18	99
+32	Production Technician - WC60	23	99
+33	Production Technician - WC60	17	99
+34	Production Technician - WC60	15	99
+35	Production Technician - WC60	22	99
+36	Production Technician - WC60	20	99
+37	Production Technician - WC60	16	99
+38	Production Technician - WC60	24	99
+39	Production Technician - WC60	25	99
+40	Production Supervisor - WC60	82	99
+41	Production Technician - WC60	35	99
+42	Production Technician - WC60	39	99
+43	Production Technician - WC60	34	99
+44	Production Technician - WC60	38	99
+45	Production Technician - WC60	37	99
+46	Production Technician - WC60	36	99
+47	Production Supervisor - WC10	65	99
+48	Production Technician - WC10	83	99
+49	Production Technician - WC10	88	99
+50	Production Technician - WC10	84	99
+51	Production Technician - WC10	85	99
+52	Production Technician - WC10	86	99
+53	Production Technician - WC10	87	99
+54	Production Technician - WC10	89	99
+55	Production Supervisor - WC50	79	99
+56	Production Technician - WC50	9	99
+57	Production Technician - WC50	10	99
+58	Production Technician - WC50	11	99
+59	Production Technician - WC50	12	99
+60	Production Technician - WC50	13	99
+61	Production Technician - WC50	8	99
+62	Production Supervisor - WC60	81	99
+63	Production Technician - WC60	30	99
+64	Production Technician - WC60	26	99
+65	Production Technician - WC60	29	99
+66	Production Technician - WC60	28	99
+67	Production Technician - WC60	32	99
+68	Production Technician - WC60	27	99
+69	Production Technician - WC60	31	99
+70	Production Technician - WC60	33	99
+71	Production Supervisor - WC30	70	99
+72	Production Technician - WC30	41	99
+73	Production Technician - WC30	42	99
+74	Production Technician - WC30	43	99
+75	Production Technician - WC30	44	99
+76	Production Technician - WC30	45	99
+77	Production Technician - WC30	46	99
+78	Production Supervisor - WC40	72	99
+79	Production Technician - WC40	60	99
+80	Production Technician - WC40	65	99
+81	Production Technician - WC40	64	99
+82	Production Technician - WC40	62	99
+83	Production Technician - WC40	61	99
+84	Production Technician - WC40	66	99
+85	Production Technician - WC40	63	99
+86	Production Technician - WC40	59	99
+87	Production Supervisor - WC10	67	99
+88	Production Technician - WC10	99	99
+89	Production Technician - WC10	96	99
+90	Production Technician - WC10	97	99
+91	Production Technician - WC10	95	99
+92	Production Technician - WC10	98	99
+93	Production Supervisor - WC50	78	99
+94	Production Technician - WC50	6	99
+95	Production Technician - WC50	1	99
+96	Production Technician - WC50	5	99
+97	Production Technician - WC50	0	99
+98	Production Technician - WC50	4	99
+99	Production Technician - WC50	2	99
+100	Production Technician - WC50	7	99
+101	Production Technician - WC50	3	99
+102	Production Supervisor - WC10	66	99
+103	Production Technician - WC10	93	99
+104	Production Technician - WC10	94	99
+105	Production Technician - WC10	90	99
+106	Production Technician - WC10	92	99
+107	Production Technician - WC10	91	99
+108	Production Supervisor - WC50	77	99
+109	Production Technician - WC50	95	99
+110	Production Technician - WC50	90	99
+111	Production Technician - WC50	93	99
+112	Production Technician - WC50	91	99
+113	Production Technician - WC50	96	99
+114	Production Technician - WC50	97	99
+115	Production Technician - WC50	92	99
+116	Production Technician - WC50	98	99
+117	Production Technician - WC50	99	99
+118	Production Technician - WC50	88	99
+119	Production Technician - WC50	94	99
+120	Production Technician - WC50	89	99
+121	Shipping and Receiving Supervisor	93	99
+122	Stocker	97	99
+123	Shipping and Receiving Clerk	95	99
+124	Stocker	98	99
+125	Shipping and Receiving Clerk	94	99
+126	Stocker	96	99
+127	Production Supervisor - WC40	73	99
+128	Production Technician - WC40	68	99
+129	Production Technician - WC40	69	99
+130	Production Technician - WC40	71	99
+131	Production Technician - WC40	72	99
+132	Production Technician - WC40	67	99
+133	Production Technician - WC40	70	99
+134	Production Supervisor - WC20	40	99
+135	Production Technician - WC20	9	99
+136	Production Technician - WC20	4	99
+137	Production Technician - WC20	8	99
+138	Production Technician - WC20	7	99
+139	Production Technician - WC20	0	99
+140	Production Technician - WC20	5	99
+141	Production Technician - WC20	1	99
+142	Production Technician - WC20	3	99
+143	Production Technician - WC20	2	99
+144	Production Technician - WC20	6	99
+145	Production Supervisor - WC30	69	99
+146	Production Technician - WC30	36	99
+147	Production Technician - WC30	37	99
+148	Production Technician - WC30	38	99
+149	Production Technician - WC30	39	99
+150	Production Technician - WC30	35	99
+151	Production Technician - WC30	40	99
+152	Production Supervisor - WC20	41	99
+153	Production Technician - WC20	15	99
+154	Production Technician - WC20	10	99
+155	Production Technician - WC20	16	99
+156	Production Technician - WC20	11	99
+157	Production Technician - WC20	12	99
+158	Production Technician - WC20	14	99
+159	Production Technician - WC20	13	99
+160	Production Supervisor - WC45	74	99
+161	Production Technician - WC45	74	99
+162	Production Technician - WC45	75	99
+163	Production Technician - WC45	77	99
+164	Production Technician - WC45	73	99
+165	Production Technician - WC45	76	99
+166	Production Supervisor - WC30	68	99
+167	Production Technician - WC30	25	99
+168	Production Technician - WC30	34	99
+169	Production Technician - WC30	31	99
+170	Production Technician - WC30	26	99
+171	Production Technician - WC30	32	99
+172	Production Technician - WC30	22	99
+173	Production Technician - WC30	33	99
+174	Production Technician - WC30	28	99
+175	Production Technician - WC30	23	99
+176	Production Technician - WC30	29	99
+177	Production Technician - WC30	24	99
+178	Production Technician - WC30	27	99
+179	Production Technician - WC30	30	99
+180	Production Supervisor - WC20	42	99
+181	Production Technician - WC20	20	99
+182	Production Technician - WC20	21	99
+183	Production Technician - WC20	17	99
+184	Production Technician - WC20	18	99
+185	Production Technician - WC20	19	99
+186	Production Supervisor - WC45	75	99
+187	Production Technician - WC45	79	99
+188	Production Technician - WC45	80	99
+189	Production Technician - WC45	81	99
+190	Production Technician - WC45	82	99
+191	Production Technician - WC45	78	99
+192	Production Supervisor - WC40	71	99
+193	Production Technician - WC40	52	99
+194	Production Technician - WC40	47	99
+195	Production Technician - WC40	58	99
+196	Production Technician - WC40	53	99
+197	Production Technician - WC40	48	99
+198	Production Technician - WC40	49	99
+199	Production Technician - WC40	54	99
+200	Production Technician - WC40	56	99
+201	Production Technician - WC40	55	99
+202	Production Technician - WC40	50	99
+203	Production Technician - WC40	51	99
+204	Production Technician - WC40	57	99
+205	Production Supervisor - WC45	76	99
+206	Production Technician - WC45	84	99
+207	Production Technician - WC45	85	99
+208	Production Technician - WC45	86	99
+209	Production Technician - WC45	87	99
+210	Production Technician - WC45	83	99
+211	Quality Assurance Manager	80	99
+212	Quality Assurance Supervisor	81	99
+213	Quality Assurance Technician	85	99
+214	Quality Assurance Technician	84	99
+215	Quality Assurance Technician	83	99
+216	Quality Assurance Technician	82	99
+217	Document Control Manager	77	99
+218	Control Specialist	76	99
+219	Document Control Assistant	78	99
+220	Document Control Assistant	79	99
+221	Control Specialist	75	99
+222	Master Scheduler	44	99
+223	Scheduling Assistant	46	99
+224	Scheduling Assistant	45	99
+225	Scheduling Assistant	47	99
+226	Scheduling Assistant	48	99
+227	Facilities Manager	86	99
+228	Maintenance Supervisor	92	99
+229	Janitor	90	99
+230	Janitor	88	99
+231	Janitor	91	99
+232	Janitor	89	99
+233	Facilities Administrative Assistant	87	99
+234	Chief Financial Officer	0	99
+235	Human Resources Manager	54	99
+236	Human Resources Administrative Assistant	53	99
+237	Human Resources Administrative Assistant	52	99
+238	Recruiter	50	99
+239	Benefits Specialist	51	99
+240	Recruiter	49	99
+241	Accounts Manager	57	99
+242	Accounts Receivable Specialist	60	99
+243	Accounts Receivable Specialist	61	99
+244	Accounts Receivable Specialist	62	99
+245	Accountant	58	99
+246	Accounts Payable Specialist	63	99
+247	Accounts Payable Specialist	64	99
+248	Accountant	59	99
+249	Finance Manager	55	99
+250	Purchasing Manager	49	99
+251	Buyer	59	99
+252	Buyer	60	99
+253	Buyer	56	99
+254	Buyer	57	99
+255	Buyer	52	99
+256	Buyer	58	99
+257	Buyer	54	99
+258	Buyer	53	99
+259	Buyer	55	99
+260	Purchasing Assistant	50	99
+261	Purchasing Assistant	51	99
+262	Assistant to the Chief Financial Officer	56	99
+263	Information Services Manager	65	99
+264	Network Manager	68	99
+265	Network Administrator	70	99
+266	Network Administrator	69	99
+267	Application Specialist	74	99
+268	Application Specialist	73	99
+269	Application Specialist	72	99
+270	Database Administrator	67	99
+271	Database Administrator	66	99
+272	Application Specialist	71	99
+273	Vice President of Sales	10	99
+274	North American Sales Manager	14	99
+275	Sales Representative	38	99
+276	Sales Representative	27	99
+277	Sales Representative	24	99
+278	Sales Representative	33	99
+279	Sales Representative	29	99
+280	Sales Representative	22	99
+281	Sales Representative	26	99
+282	Sales Representative	31	99
+283	Sales Representative	23	99
+284	Sales Representative	39	99
+285	Pacific Sales Manager	20	99
+286	Sales Representative	36	99
+287	European Sales Manager	21	99
+288	Sales Representative	35	99
+289	Sales Representative	37	99
+290	Sales Representative	34	99
